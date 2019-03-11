@@ -1,0 +1,16 @@
+dn: cn=group1,ou=Group,dc=lrn,dc=io
+changetype: modify
+add: memberuid
+memberuid: user3
+
+
+dn: cn=group1,ou=Group,dc=lrn,dc=io
+changetype: modify
+add: memberuid
+memberuid: user4
+
+
+dn: cn=group1,ou=Group,dc=lrn,dc=io
+changetype: modify
+add: memberuid
+memberuid: user5

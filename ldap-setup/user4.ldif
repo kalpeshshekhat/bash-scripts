@@ -1,0 +1,16 @@
+dn: uid=user4,ou=People,dc=lrn,dc=io
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: user4
+uid: user4
+uidNumber: 9996
+gidNumber: 101
+homeDirectory: /home/user4
+loginShell: /bin/bash
+userPassword: {crypt}x
+shadowLastChange: 17058
+shadowMin: 0
+shadowMax: 99999
+shadowWarning: 7

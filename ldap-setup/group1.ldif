@@ -1,0 +1,4 @@
+dn: cn=group1,ou=Group,dc=lrn,dc=io
+objectClass: top
+objectClass: posixGroup
+gidNumber: 101

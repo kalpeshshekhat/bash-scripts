@@ -1,0 +1,11 @@
+oralv:105G:/oracle/QM1
+stglv:30G:/oracle/QM1/stage
+numlv:15G:/oracle/QM1/11204
+ologalv:5G:/oracle/QM1/origlogA
+ologblv:5G:/oracle/QM1/origlogB
+mlogalv:5G:/oracle/QM1/mirrlogA
+mlogblv:5G:/oracle/QM1/mirrlogB
+archlv:20G:/oracle/DM1/oraarch
+spdt1lv:510G:/oracle/QM1/sapdata1
+clntlv:2G:/oracle/QM1/client
+backuplv:149.9G:/oracle/sapbackup

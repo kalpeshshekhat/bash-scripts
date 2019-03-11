@@ -1,0 +1,17 @@
+dn: dc=lrn,dc=io
+dc: lrn
+objectClass: top
+objectClass: domain
+
+dn: cn=ldapadm ,dc=lrn,dc=io
+objectClass: organizationalRole
+cn: ldapadm
+description: LDAP Manager
+
+dn: ou=People,dc=lrn,dc=io
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=lrn,dc=io
+objectClass: organizationalUnit
+ou: Group
